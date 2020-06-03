@@ -8,7 +8,7 @@ namespace ShuffleCodeChallenge
             bool isOrdered = false;
             int roundCount = 0;
 
-            //edge case
+            //handle edge case
             if (size == 0) return 0;
 
             Deck deck = new Deck(size);

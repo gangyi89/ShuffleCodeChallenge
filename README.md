@@ -22,7 +22,7 @@ https://visualstudio.microsoft.com/
 
 note: if you are using vs code, open the file where the .csproj resides. For the rest of VS IDE, can just click on the .sln to beign
 
-## Additional Resource
+## Additional Resources
 * debuging on vs code (slightly more tricky)
 
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio
